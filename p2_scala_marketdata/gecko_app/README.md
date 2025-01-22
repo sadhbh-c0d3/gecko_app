@@ -2,7 +2,7 @@
 
 Let's write market data adapter in Scala!
 
-### AI Coding Assistance
+### AI Coding Assistance
 
 This is Rust code coverted Gemini into Scala.
 
